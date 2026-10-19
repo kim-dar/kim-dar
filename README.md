@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim Gatkuoth Dar</h1>
 
 <h3 align="center">
-  💻 Information Systems Student | Software Developer | Technology Enthusiast 🇪🇹
+  💻 Information Technology Student | Software Developer | Technology Enthusiast 🇪🇹
 </h3>
 
 <p align="center">
